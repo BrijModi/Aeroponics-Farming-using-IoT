@@ -2,7 +2,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/BrijModi/Aeroponics-Farming-using-IoT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BrijModi/Aeroponics-Farming-using-IoT)
-![GitHub license](https://img.shields.io/github/license/BrijModi/Aeroponics-Farming-using-IoT)
 
 An **automated, IoT-integrated aeroponics system** designed to provide a **sustainable and efficient solution for urban and indoor agriculture**.  
 By leveraging sensors, smart controls, and IoT connectivity, the system creates an **optimal growth environment for plants**, significantly reducing **water consumption** and **manual labor** compared to traditional farming methods.
